@@ -3,15 +3,25 @@
 ### libraries used
 
 sklearn
+
 keras
+
 numpy
+
 glob
+
 pandas
+
 matplotlib
+
 random
+
 cv2
+
 mtcnn
+
 tqdm
+
 PIL
 
 ### script used
