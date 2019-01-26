@@ -30,17 +30,17 @@ extract_bottleneck_features
 
 ### the motivation for the project
 
-Have you ever think about if you were a dog what dog’s breed would you be?
+Have you ever thought about what breed of dog you would be if you were a dog? 
 This is my final project of my nanadegree in Data Scientist at Udacity and I will try to answer this question.
-Why did I chosed this project rather than others? becasue this is the only one related to computer vision and deep learning, two disruptive fields where I would like to improve.
+Why did I chosed this project over than others? becasue this is the only one related to computer vision and deep learning, two challenged fields where I would like to improve.
 
 ### the files in the repository with a small description of each
 
-notebook 
+Notebook 
 
 ### a summary of the results of the analysis
 
-I made a classifier function that firt detect If there is a dog in the image and second wich dog's breed can be.
+I made a classifier that first detects if there is a dog in the image and second what dog's breed can it be.
 
 ### necessary acknowledgements
 
